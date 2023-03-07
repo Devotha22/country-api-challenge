@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background: rgba(25, 103, 105, 0.938);
+  color: black;
+
 }
 
 .App-logo {
@@ -35,4 +38,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+.App button{
+  background:black;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+border: 1 black solid;
+border-radius: 5px;
 }
